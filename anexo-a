@@ -37,9 +37,9 @@ Outras legislações da União Europeia podem ser aplicadas ao(s) produto(s) que
 ## Table A.1: Web Pages - relationship between the present document and the essential requirements of Directive 2016/2102/EU
 
 Num. | Cláusula | P | O | U | R | U/C | Condição|Cláusula
----|-------|-|-|-|-|---|---------|------
+-----|----------|---|---|---|---|-----|---------|------
 1 | 5.2 Ativação dos recursos de acessibilidade | ✓ | ✓ | ✓ | ✓ | C | Quando a TIC tem características de acessibilidade documentadas | C.5.2
-2| 5.3 Biometria| |✓| | |C|Quando a TIC usa características biológicas|C.5.3
+2 | 5.3 Biometria |   | ✓ |   |   | C | Quando a TIC usa características biológicas | C.5.3
 3| 5.4 Preservação das informações de acessibilidade durante a conversão|✓| |✓|✓|C|Quando a TIC converte informação ou comunicação|C.5.4
 4| 5.5.1 Modos de operação| |✓| | |C|Quando a TIC tem partes operáveis*|C.5.5.1
 5| 5.5.2 Percepção das partes operáveis|✓|✓| | |C|Quando a TIC tem partes operáveis*|C.5.5.2
